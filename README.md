@@ -4,3 +4,5 @@
 <i>2-) Yemleme sistemi vardır.</i></br>
 <i>3-) Yem yiyince Yılan büyüme özelliği de vardır.</i></br>
 <i>4-) Oyunda yanma vardır eğer yılan kendi vücuduna değerse oyun biter.</i></br>
+
+Kod dosyasında yorum satırları henüz ekleyemedim. En kısa zamanda ekleyeceğim.
