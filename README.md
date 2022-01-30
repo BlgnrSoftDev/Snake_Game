@@ -1,4 +1,4 @@
-<b> Merhaba Arkadaşlar, oyun birkaç basit özelliklerden oluşmaktadır. <b>
+<b> Merhabalar, oyun birkaç basit özelliklerden oluşmaktadır. <b>
   
 <i>1-) Yılan  "a", "s","d, "w" tuslarıyla hareket etmektedir.</i> </br>
 <i>2-) Yemleme sistemi vardır.</i></br>
